@@ -180,7 +180,7 @@
     });
 
     document.addEventListener("DOMContentLoaded", () => {
-      const messageText = "Happy 1-year anniversary, ငယ် ! ❤️ Thank you so much for being by my side throughout this entire year. Through the good times and the bad, you’ve always been there, and I love you so much for that. Now and always, I hope you’ll stay by my side, just as I’ll always be by yours. Starting from this 1-year milestone, let’s continue to be together for many more years to come. I love you endlessly! I love you more than I can say 💖";
+      const messageText = "Happy 1-year anniversary, my love! ❤️ Thank you so much for being by my side throughout this entire year. Through the good times and the bad, you’ve always been there, and I love you so much for that. Now and always, I hope you’ll stay by my side, just as I’ll always be by yours. Starting from this 1-year milestone, let’s continue to be together for many more years to come. I love you endlessly! I love you more than I can say 💖";
       const showMessageBtn = document.getElementById("showMessageBtn");
       const messageEl = document.getElementById("message");
       const typewriterEl = document.querySelector(".typewriter");
